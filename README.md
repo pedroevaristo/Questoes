@@ -23,6 +23,25 @@
   <br/>
   <br/>
   <br/>
+  
   ### Escreva um algoritmo que pergunte ao usuário o raio e a altura de um cilindro, retornando a área da figura e o volume do sólido para o usuário.
+  <br/>
+  <br/>
+  <br/>
+  
+  ### Desenvolva um programa que: Leia 4 (quatro) números; Calcule o quadrado de cada um; Se o valor resultante do quadrado do terceiro for >= 1000, mostre-o e finalize; Caso contrário, mostre os valores lidos e seus respectivos quadrados.
+  <br/>
+  <br/>
+  <br/>
+  
+  ### Elabore um programa que dada a idade de um nadador classifique-o em uma das seguintes categorias: Infantil A = 5 a 7 anos; Infantil B = 8 a 11 anos; Juvenil A = 12 a
+13 anos; Juvenil B = 14 a 17 anos; Adultos = Maiores de 18 anos.
+  <br/>
+  <br/>
+  <br/>
 
+  ### Elabore um programa que leia as 3 nota de um aluno da UnP e retorne a média final e a situação do alunos (aprovado, reprovado ou em recuperação).
+  <br/>
+  <br/>
+  <br/>
 ****OBS.: Aumentar a fonte das letras.***
